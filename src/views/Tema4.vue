@@ -15,7 +15,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Recordemos que el Sistema de Gestión de la Calidad de las empresas tiene que incluir toda la información documentada que requiere la norma ISO 9001, buscando que el SGC funcione bien. Dentro de este sistema, se requiere un proceso de mantenimiento, entendido como el proceso mediante el cual se presta el servicio para mejorar, adecuar y restablecer la conservación de la información documentada y se lleve a cabo de manera preventiva o correctiva. 
 
-    p(data-aos="fade-down").mb-5 Ahora, se dan a concer las etapas sucesivas por las que atraviesan los documentos, desde su producción o recepción, hasta su disposición final.
+    p(data-aos="fade-down").mb-5 A continuación, se aborda cada uno de ellos: 
 
     .row.justify-content-center.align-items-stretch.mb-4.text-center         
       .col-lg-6.col-md-10.bg12.p-4.my-3

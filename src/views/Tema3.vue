@@ -150,7 +150,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 En cuanto al software de administración de documentos, es una herramienta muy útil para distribuir y compartir archivos y documentos comerciales que los miembros del equipo necesitan tener a mano. Es un programa informático que permite consultar, editar y acceder a los documentos creados en una empresa y, por lo general, tienen escáneres o buscadores y necesitan proporcionar medios de almacenamiento para la recuperación de archivos. 
+          p(data-aos="fade-down").mb-0 En cuanto al <i>software</i> de administración de documentos, es una herramienta muy útil para distribuir y compartir archivos y documentos comerciales que los miembros del equipo necesitan tener a mano. Es un programa informático que permite consultar, editar y acceder a los documentos creados en una empresa y, por lo general, tienen escáneres o buscadores y necesitan proporcionar medios de almacenamiento para la recuperación de archivos. 
 
     p(data-aos="fade-down").mb-5 Existen varios programas de gestión documental con características muy específicas según la necesidad: el tamaño del almacenamiento, la disponibilidad, la seguridad, y algunos de ellos que son especialmente útiles cuando se necesita la colaboración de la herramienta entre diferentes usuarios.
 
@@ -165,31 +165,31 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src="@/assets/curso/temas/27.png", alt="alt").img100.m-auto        
-        p.text-center.mb-0 Google Apps for Work
+        p.text-center.mb-0.fst-italic Google Apps for Work
 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src="@/assets/curso/temas/28.png", alt="alt").img100.m-auto       
-        p.text-center.mb-0 Microsoft Office 365
+        p.text-center.mb-0.fst-italic Microsoft Office 365
 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src="@/assets/curso/temas/29.png", alt="alt").img100.m-auto       
-        p.text-center.mb-0 Microsoft SharePoint Online 
+        p.text-center.mb-0.fst-italic Microsoft SharePoint Online 
 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src="@/assets/curso/temas/30.png", alt="alt").img100.m-auto       
-        p.text-center.mb-0 Open Text Content Suite 
+        p.text-center.mb-0.fst-italic Open Text Content Suite 
 
       .tarjeta.tarjeta--slyder.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src="@/assets/curso/temas/31.png", alt="alt").img100.m-auto       
-        p.text-center.mb-0 Documentum 
+        p.text-center.mb-0.fst-italic Documentum 
 
     .list.mb-5(data-aos="fade-down")
       .list__item

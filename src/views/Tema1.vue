@@ -16,7 +16,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 En general, las organizaciones cuentan con unos medios limitados para llevar a cabo sus actividades o para lograr sus objetivos a corto y largo plazo. La mayoría de estos recursos son parte de sus activos, es decir, le pertenecen a la empresa, o al menos están al servicio de ella y, por lo tanto, una buena gestión de los procesos conduce a mejores resultados. A grandes rasgos, las empresas cuentan con dos tipos de recursos: los tangibles, cosas que se pueden tocar, acumular, almacenar y mover, es decir, concretas y físicas, como el caso de las máquinas o el papel moneda; y los intangibles, los que no se pueden tocar, porque no son físicos ni concretos, pero no por ello menos valiosos, como es el caso de la información, el talento humano o el llamado saber hacer (know how). 
+          p(data-aos="fade-down").mb-0 En general, las organizaciones cuentan con unos medios limitados para llevar a cabo sus actividades o para lograr sus objetivos a corto y largo plazo. La mayoría de estos recursos son parte de sus activos, es decir, le pertenecen a la empresa, o al menos están al servicio de ella y, por lo tanto, una buena gestión de los procesos conduce a mejores resultados. A grandes rasgos, las empresas cuentan con dos tipos de recursos: los tangibles, cosas que se pueden tocar, acumular, almacenar y mover, es decir, concretas y físicas, como el caso de las máquinas o el papel moneda; y los intangibles, los que no se pueden tocar, porque no son físicos ni concretos, pero no por ello menos valiosos, como es el caso de la información, el talento humano o el llamado saber hacer (<i>know how</i>). 
 
     p(data-aos="fade-down").mb-5 Es así como los considerados recursos básicos de una organización son:
 
@@ -26,19 +26,15 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='')
 
       .tarjeta.color-acento-botones.p-3(x="10.5%" y="9.5%" numero="1") 
-        h4.mb-4 Recurso humano
         p.mb-0 Se refiere a todo el personal que ha sido contratado por la organización para cumplir con sus objetivos. El talento humano es el recurso principal y más importante de cualquier organización; dependiendo del tipo de empresa, se encarga de operar, controlar y supervisar la producción, incluso en algunos entornos altamente automatizados.  
 
       .tarjeta.color-acento-botones.p-3(x="90.5%" y="9.5%" numero="2") 
-        h4.mb-4 Recursos materiales
         p.mb-0 Son los bienes tangibles que requiere la empresa para desarrollar su actividad. Estos pueden ser maquinarias, inmuebles, insumos, elementos de oficina, entre otros.             
 
       .tarjeta.color-acento-botones.p-3(x="10.5%" y="92%" numero="3") 
-        h4.mb-4 Recursos financieros
         p.mb-0 Son el efectivo y los activos de la empresa, y con los que se cuenta para pagar sus obligaciones.  
 
       .tarjeta.color-acento-botones.p-3(x="90.5%" y="92%" numero="4") 
-        h4.mb-4 Recursos intangibles
         p.mb-0 No se pueden percibir físicamente y se clasifican en legales y competitivos. Los primeros son derechos de marca o de autor, patentes, entre otros, mientras que los segundos hacen referencia a los conocimientos acumulados por la organización.
 
     .row.justify-content-center.align-items-center.mb-5           
@@ -76,13 +72,13 @@
         ul.lista-ul
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Gestión gerencial 
+            p.mb-0 Gestión gerencial. 
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Gestión calidad 
+            p.mb-0 Gestión calidad. 
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Gestión administrativa 
+            p.mb-0 Gestión administrativa. 
           li 
             i.fas.fa-angle-right.v
             p.mb-0 Auditorías internas.
@@ -95,10 +91,10 @@
         ul.lista-ul
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Departamento de ventas
+            p.mb-0 Departamento de ventas.
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Departamento de diseño
+            p.mb-0 Departamento de diseño.
           li 
             i.fas.fa-angle-right.v
             p.mb-0 Departamento de producción.
@@ -111,10 +107,10 @@
         ul.lista-ul
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Departamento de sistemas
+            p.mb-0 Departamento de sistemas.
           li 
             i.fas.fa-angle-right.v
-            p.mb-0 Departamento de compras
+            p.mb-0 Departamento de compras.
           li 
             i.fas.fa-angle-right.v
             p.mb-0 Departamento de comunicaciones.

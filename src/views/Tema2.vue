@@ -65,7 +65,6 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Identificación del riesgo
               p.mb-0 En esta parte se debe dar una descripción del riesgo. Señalar cuál es el impacto del riesgo identificado, cuál es su causa y cuál su efecto.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/12.svg')})`}")
 
@@ -74,7 +73,6 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/13.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Análisis del riesgo inherente
               p.mb-0 En esta parte se revisa cuál es la probabilidad, el impacto, y la zona de riesgo inherente.
 
       .col-sm-6.col-xl-3.mb-4.mb-sm-0(data-aos="fade-down")
@@ -82,7 +80,6 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/14.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Evaluación del riesgo
               p.mb-0 Aquí se debe describir el control que se realiza frente al riesgo.
 
       .col-sm-6.col-xl-3(data-aos="fade-down")
@@ -90,7 +87,6 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/15.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Plan de acción
               p.mb-0 Esta parte debe generar las propuestas para evitar los riesgos frente al archivo documental. Se debe mostrar el responsable, la fecha de inicio y de terminación del plan, e incluir el seguimiento que se realiza a esos posibles riesgos.
 
     p(data-aos="fade-down").mb-5 Implementar actividades de control de creación, modificación, actualización, obsolescencia, revisión, aprobación, formalización, identificación, distribución, almacenamiento, de los documentos internos que se gestionan en la empresa, asegura su administración entre los actores. 

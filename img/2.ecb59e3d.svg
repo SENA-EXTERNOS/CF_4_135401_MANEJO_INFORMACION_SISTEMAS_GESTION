@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <filter id="Trazado_167112" x="0" y="0" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_118685" data-name="Grupo 118685" transform="translate(-1096.333 -103)">
+    <g transform="matrix(1, 0, 0, 1, 1096.33, 103)" filter="url(#Trazado_167112)">
+      <path id="Trazado_167112-2" data-name="Trazado 167112" d="M23,0H59A23,23,0,0,1,82,23V59A23,23,0,0,1,59,82H23A23,23,0,0,1,0,59V23A23,23,0,0,1,23,0Z" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="BOOST_Your_Business" transform="translate(1108.317 115.765)">
+      <g id="XMLID_00000068676845501584086150000004596077917767429567_" transform="translate(7.78 11.17)">
+        <g id="XMLID_00000182499794231182070450000011664922724468154755_" transform="translate(8.635 39.644)">
+          <rect id="Rectángulo_42839" data-name="Rectángulo 42839" width="5.231" height="4.129" transform="translate(0 0)" fill="#fbd451"/>
+        </g>
+        <g id="XMLID_00000175310346733081642230000008027197872602072966_" transform="translate(8.635 39.644)">
+          <rect id="Rectángulo_42840" data-name="Rectángulo 42840" width="2.622" height="4.129" transform="translate(0 0)" fill="#fbda73"/>
+        </g>
+        <g id="XMLID_00000115516931678210000110000011316087891530296477_" transform="translate(16.865 35.306)">
+          <rect id="Rectángulo_42841" data-name="Rectángulo 42841" width="5.231" height="8.467" fill="#b4ebf7"/>
+        </g>
+        <g id="XMLID_00000044159878149286027930000007654464862304910474_" transform="translate(16.865 35.306)">
+          <rect id="Rectángulo_42842" data-name="Rectángulo 42842" width="2.622" height="8.467" fill="#d2f3fa"/>
+        </g>
+        <g id="XMLID_00000101081389254766470970000010267623771295324589_" transform="translate(25.095 29.168)">
+          <rect id="Rectángulo_42843" data-name="Rectángulo 42843" width="5.231" height="14.605" fill="#53667f"/>
+        </g>
+        <g id="XMLID_00000077319230532889572850000014248383445897171637_" transform="translate(25.095 29.168)">
+          <rect id="Rectángulo_42844" data-name="Rectángulo 42844" width="2.622" height="14.605" fill="#758599"/>
+        </g>
+        <g id="XMLID_00000175297393381010879200000001789521964961516989_" transform="translate(33.339 20.296)">
+          <rect id="Rectángulo_42845" data-name="Rectángulo 42845" width="5.231" height="23.477" fill="#b4ebf7"/>
+        </g>
+        <g id="XMLID_00000045612133434749115120000008355069856149190053_" transform="translate(33.339 20.296)">
+          <rect id="Rectángulo_42846" data-name="Rectángulo 42846" width="2.622" height="23.477" fill="#d2f3fa"/>
+        </g>
+        <g id="XMLID_00000093138137853525826270000010503709300378912411_" transform="translate(41.569 11.634)">
+          <rect id="Rectángulo_42847" data-name="Rectángulo 42847" width="5.231" height="32.153" transform="translate(0)" fill="#fbd451"/>
+        </g>
+        <g id="XMLID_00000000214225046528380480000003361167908785381001_" transform="translate(41.569 11.634)">
+          <rect id="Rectángulo_42848" data-name="Rectángulo 42848" width="2.622" height="32.153" transform="translate(0)" fill="#fbda73"/>
+        </g>
+        <g id="XMLID_00000010997535200408020910000006681224035312389025_" transform="translate(49.8 5.496)">
+          <rect id="Rectángulo_42849" data-name="Rectángulo 42849" width="5.231" height="38.277" transform="translate(0)" fill="#b4ebf7"/>
+        </g>
+        <g id="XMLID_00000126292849969981885120000004612665507606050445_" transform="translate(49.8 5.496)">
+          <rect id="Rectángulo_42850" data-name="Rectángulo 42850" width="2.622" height="38.277" transform="translate(0)" fill="#e1f7fc"/>
+        </g>
+        <g id="XMLID_00000173856106756664614850000006540131522518120093_" transform="translate(2.718 1.062)">
+          <g id="XMLID_00000052821067311695949760000002742012020353919406_">
+            <rect id="Rectángulo_42851" data-name="Rectángulo 42851" width="65.688" height="1.688" transform="translate(0 43.61) rotate(-41.599)" fill="#e0632f"/>
+          </g>
+        </g>
+        <rect id="Rectángulo_42852" data-name="Rectángulo 42852" width="1.688" height="35.976" transform="translate(2.664 8.565)" fill="#414042"/>
+        <rect id="Rectángulo_42853" data-name="Rectángulo 42853" width="60.471" height="1.688" transform="translate(0 44.443)" fill="#414042"/>
+        <g id="XMLID_00000125596659380272237960000014529594592375165081_" transform="translate(47.875)">
+          <g id="XMLID_00000179613615600732851430000003278757791523331987_">
+            <path id="Trazado_167112-3" data-name="Trazado 167112" d="M48.308,17.238H46.62v-4.38H42.1V11.17h6.208Z" transform="translate(-42.1 -11.17)" fill="#e0632f"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

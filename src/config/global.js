@@ -126,15 +126,6 @@ export default {
       tema:
         'Ciclo de vida del documento y control de la información documentada',
       referencia:
-        'Procuraduría General de la Nación. (2015). Instructivo para la aplicación de las tablas de retención y valoración documental, las transferencias documentales y la eliminación.',
-      tipo: 'PDF',
-      link:
-        'https://www.procuraduria.gov.co/portal/media/file/modulo_calidad/mapa_proceso/1073_INS-GD-AM-002_V4-MA.pdf',
-    },
-    {
-      tema:
-        'Ciclo de vida del documento y control de la información documentada',
-      referencia:
         'Cámara de Comercio de Barranquilla. (2015). <i>Programa de Gestión Documental (PGD).</i>',
       tipo: 'PDF',
       link:

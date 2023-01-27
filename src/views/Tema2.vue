@@ -73,7 +73,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/13.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p.mb-0 En esta parte se revisa cuál es la probabilidad, el impacto, y la zona de riesgo inherente.
+              p.mb-0 En este segmento, se revisa cuál es la probabilidad, el impacto y la zona de riesgo inherente.
 
       .col-sm-6.col-xl-3.mb-4.mb-sm-0(data-aos="fade-down")
         .tarjeta.tarjeta-slide.arriba.color-primario.bg9(@mouseover="indicadorTarjetaSlide = false")

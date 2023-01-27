@@ -40,18 +40,21 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Teniendo claro el concepto de recurso, continuamos con los procesos en las organizaciones, los cuales son fundamentales, porque permiten desarrollar, implementar y mejorar la eficacia de los sistemas de gestión de calidad.  
+          p(data-aos="fade-down").mb-0 Teniendo claro el concepto de recurso, continuamos con los procesos en las organizaciones, los cuales son fundamentales, porque permiten desarrollar, implementar y mejorar la eficacia de los sistemas de gestión de la calidad.
 
-    p(data-aos="fade-down") La gestión por procesos, en las organizaciones, permite un valor agregado a las entradas, de modo que las salidas que se obtengan satisfagan las necesidades de los clientes, sin perder de vista las relaciones con proveedores.
-
-    p(data-aos="fade-down").mb-5 La Figura 1 es una representación esquemática de los procesos y muestra la interacción entre sus elementos, los puntos de control del seguimiento y la medición.
+    p(data-aos="fade-down").mb-5 La gestión por procesos, en las organizaciones, permite un valor agregado a las entradas, de modo que las salidas que se obtengan satisfagan las necesidades de los clientes, sin perder de vista las relaciones con los proveedores.
+      br
+      br
+      |Lo siguiente es una representación esquemática de los procesos y muestra la interacción entre sus elementos, los puntos de control del seguimiento y la medición:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .titulo-sexto.color-acento-botones.mb-5
-          h5 Figura 1.
-          span Representación esquemática de los elementos del proceso 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')      
+          h5 Figura 1
+          br
+          span.fst-italic Representación esquemática de los elementos del proceso 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='').mb-3 
+        figcaption #[b Nota.] Tomado y adaptado de ICONTEC (2015).     
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -60,7 +63,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/5.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Si las organizaciones parten de los procesos, es necesario identificar los mapas de procesos, definidos como diagramas, en los cuales se puede visualizar fácilmente la relación entre los diferentes procesos de una organización, los cuales están distribuidos en estratégicos, misionales y de apoyo. Cada uno debe contar con las entradas de solicitud (sea de producto o servicio) para entregar un producto terminado o servicio al cliente, así como la diferenciación de cada uno de ellos, según su naturaleza. 
+            p.mb-0 Si las organizaciones parten de los procesos, es necesario identificar los mapas, definidos como diagramas, en los cuales se puede visualizar, fácilmente, las relaciones de una organización, que se encuentran distribuidas en estratégicas, misionales y de apoyo. Cada uno debe contar con las entradas de solicitud (sea de producto o servicio), para entregar un producto terminado o un servicio al cliente, así como también, la diferenciación de cada uno de ellos, según su naturaleza.
 
     p(data-aos="fade-down").mb-5 A continuación, se amplía la información sobre los procesos involucrados:
 

@@ -86,13 +86,13 @@
     .row.justify-content-center.align-items-start
       .col-lg-9
         TabsA.color-acento-botones.mb-5
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Alcance del sistema<br> de gestión de calidad")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Alcance del <br>  sistema de<br>  gestión <br> de calidad")
             h4.mb-4 Cláusula ISO 9001:2015 (4.3)
             p La organización debe determinar los límites y la aplicabilidad del SGC para establecer su alcance. Cuando se determina este alcance, la organización debe considerar el seguimiento y revisión de la información sobre las cuestiones internas y externas, como los requisitos de las partes interesadas pertinentes, indicados en el apartado 4.2 y los productos y servicios ofrecidos por la organización.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Política de calidad")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Política de <br> calidad")
             h4.mb-4 Cláusula ISO 9001:2015 (5.2)
             p La alta dirección debe establecer, implementar y mantener la política de calidad. Para ello se requiere que sea apropiada al propósito y contexto de la organización y apoye su dirección estratégica; que incluya un compromiso de cumplir los requisitos aplicables y que proporcione un marco de referencia para el establecimiento de los objetivos de la calidad.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Objetivos de calidad<br> y planes para <br>alcanzarlos")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Objetivos de<br>calidad y<br>  planes para <br>alcanzarlos")
             h4.mb-4 Cláusula ISO 9001:2015 (6.2)
             p Los objetivos de calidad se refieren al medio con el que la empresa puede enfilar todos sus esfuerzos para cumplir con la política de calidad; de aquí que, mediante la medición de los objetivos y los indicadores que contienen, se consiga determinar el grado de cumplimiento de la política de calidad.                       
       .col-lg-3
@@ -198,9 +198,10 @@
       .list__txt
         h3.mb-0 Listado maestro de información documentada  
 
-    p(data-aos="fade-down") Para finalizar el tema de estudio del listado maestro de información documentada, el cual es un formato que contiene un registro de documentos establecidos por una organización, que respaldan la gestión y operación de los procesos, garantizan su actualización, disponibilidad y uso.
-
-    p(data-aos="fade-down").mb-5 Para conocer más sobre esta temática, lo invitamos a ver el siguiente video.
+    p(data-aos="fade-down") Finalicemos el tema de estudio del listado maestro de información documentada, el cual es un formato que contiene un registro de documentos establecidos por una organización, que respaldan la gestión y operación de los procesos, garantizan su actualización, disponibilidad y uso.
+      br
+      br
+      |Para conocer más sobre esta temática, lo invitamos a ver el siguiente video:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
@@ -237,30 +238,37 @@
           li 
             .lista-ol--cuadro__vineta.colorv
               span 
+                i.fas.fa-circle.fa-xs 
             p.mb-0 Caracterización del proceso.
           li 
             .lista-ol--cuadro__vineta.colorv
-              span 
+              span
+                i.fas.fa-circle.fa-xs  
             p.mb-0 Manuales.
           li 
             .lista-ol--cuadro__vineta.colorv
-              span 
+              span
+                i.fas.fa-circle.fa-xs  
             p.mb-0 Procedimiento.
           li 
             .lista-ol--cuadro__vineta.colorv
               span 
+                i.fas.fa-circle.fa-xs  
             p.mb-0 Instructivo.
           li 
             .lista-ol--cuadro__vineta.colorv
-              span 
+              span
+                i.fas.fa-circle.fa-xs  
             p.mb-0 Guía.
           li 
             .lista-ol--cuadro__vineta.colorv
-              span 
+              span
+                i.fas.fa-circle.fa-xs  
             p.mb-0 Formato.
           li 
             .lista-ol--cuadro__vineta.colorv
-              span 
+              span
+                i.fas.fa-circle.fa-xs  
             p.mb-0 Documentos de apoyo.
 
 </template>

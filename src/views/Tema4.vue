@@ -46,7 +46,7 @@
             p Actuación que debe cumplir con las instrucciones de conservación, impartidas por un conservador y un archivero. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Prohibido comer,<br> beber o fumar")
             p Se debe evitar siempre comer, beber o fumar en la manipulación de documentos y durante cualquier trámite: consulta en puestos de trabajo, tramitación técnica, limpieza, higienización, embalaje, traslado, archivo, recepción, digitalización, etc. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Requerimientos para<br> el personal")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Requerimientos <br>  para el<br>  personal")
             p El personal deberá contar con los insumos de seguridad industrial, almacenamiento de documentos, mobiliario y sistemas de transporte de documentos necesarios para su adecuado manejo. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Manipulación de<br> documentos")
             p Los documentos deben manipularse con cuidado, debido a que pueden estar contaminados biológicamente.                               
@@ -64,7 +64,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, el material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.     
+          p(data-aos="fade-down").mb-0 Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, el material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.
 
 </template>
 

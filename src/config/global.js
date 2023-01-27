@@ -110,35 +110,44 @@ export default {
     {
       tema: 'Recursos y procesos',
       referencia:
-        'Sierra, L. F. (2017). <i>E-gestión documental: Líneas de trabajo para su implementación.</i> ',
+        'Sierra, L. F. (2017). <em>E-gestión documental: Líneas de trabajo para su implementación.</em> ',
       tipo: 'PDF',
       link:
-        'https://revistas.sena.edu.co/index.php/ricga/article/view/1040/1158 ',
+        'https://revistas.sena.edu.co/index.php/ricga/article/view/1040/1158  ',
     },
     {
       tema: 'Recursos y procesos',
       referencia:
-        'Hamidian, B. y Ospino, G. (2015). ¿Por qué los sistemas de información son esenciales? <i>Anuario, 38,</i> p. 161-183.',
+        'Hamidian, B. y Ospino, G. (2015). ¿Por qué los sistemas de información son esenciales? <em>Anuario</em>, 38, p. 161-183.',
       tipo: 'PDF',
-      link: 'http://servicio.bc.uc.edu.ve/derecho/revista/idc38/art07.pdf',
+      link: 'http://servicio.bc.uc.edu.ve/derecho/revista/idc38/art07.pdf  ',
     },
     {
       tema:
         'Ciclo de vida del documento y control de la información documentada',
       referencia:
-        'Cámara de Comercio de Barranquilla. (2015). <i>Programa de Gestión Documental (PGD).</i>',
+        'Procuraduría General de la Nación. (2015). Instructivo para la aplicación de las tablas de retención y valoración documental, las transferencias documentales y la eliminación. ',
       tipo: 'PDF',
       link:
-        'https://www.camarabaq.org.co/wp-content/uploads/2019/01/Programa-Gestio%CC%81n-Documental-PGD_V1.pdf',
+        'https://www.procuraduria.gov.co/portal/media/file/modulo_calidad/mapa_proceso/1073_INS-GD-AM-002_V4-MA.pdf ',
+    },
+    {
+      tema:
+        'Ciclo de vida del documento y control de la información documentada',
+      referencia:
+        'Cámara de Comercio de Barranquilla. (2015). <em>Programa de Gestión Documental (PGD).</em> ',
+      tipo: 'PDF',
+      link:
+        'https://www.camarabaq.org.co/wp-content/uploads/2019/01/Programa-Gestio%CC%81n-Documental-PGD_V1.pdf ',
     },
     {
       tema:
         'Mantenimiento, conservación y divulgación de la información documentada',
       referencia:
-        'Mineducación. (2020). <i>Plan de Conservación Documental 2020.</i> ',
+        'Mineducación. (2020). <em>Plan de Conservación Documental 2020.</em> ',
       tipo: 'PDF',
       link:
-        'https://www.mineducacion.gov.co/1759/articles-362792_recurso_88.pdf',
+        'https://www.mineducacion.gov.co/1759/articles-362792_recurso_88.pdf ',
     },
   ],
   glosario: [
@@ -195,7 +204,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Archivo General de la Nación. (s.f.). <i>Tabla de Retención Documental (TRD)</i>.',
+        'Archivo General de la Nación. (s.f.). <em>Tablas de Retención Documental (TRD).</em> ',
       link:
         'https://www.archivogeneral.gov.co/transparencia/gestion-informacion-publica/Tablas-de-Retencion-Documental-TRD#:~:text=Se%20define%20como%20el%20listado,su%20necesidad%20e%20importancia%20en',
     },
@@ -207,7 +216,7 @@ export default {
     },
     {
       referencia:
-        'García-Morales, E. (2017). Información documentada y gestión del conocimiento en la ISO 9001:2015: aportación del profesional de la información. <i>Anuario ThinkEPI, 11</i>, p. 269-273.',
+        'García-Morales, E. (2017). <em>Información documentada y gestión del conocimiento en la ISO 9001:2015: aportación del profesional de la información. Anuario ThinkEPI, 11,</em> p. 269-273. ',
       link:
         'https://www.scipedia.com/wd/images/b/bb/Draft_Content_511082538-57988-9945-document.pdf',
     },
@@ -219,7 +228,7 @@ export default {
     },
     {
       referencia:
-        'Universidad de Pamplona. (s.f.). Elaboración y Control de la Información Documentada del Sistema Integrado de Gestión.',
+        'Universidad de Pamplona. (s.f.). <em>Elaboración y Control de la Información Documentada del Sistema Integrado de Gestión.</em>',
       link:
         'https://www.unipamplona.edu.co/unipamplona/portalIG/home_13/recursos/sistema_integrado_gestion/procedimientos/24052018/pac_01_control_documentos.pdf',
     },

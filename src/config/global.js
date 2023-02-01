@@ -222,12 +222,6 @@ export default {
     },
     {
       referencia:
-        'ICONTEC. (2015). Norma Técnica Colombiana NTC-ISO 9001 - Sistemas de gestión de la calidad. Requisitos.',
-      link:
-        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
-    },
-    {
-      referencia:
         'Universidad de Pamplona. (s.f.). <em>Elaboración y Control de la Información Documentada del Sistema Integrado de Gestión.</em>',
       link:
         'https://www.unipamplona.edu.co/unipamplona/portalIG/home_13/recursos/sistema_integrado_gestion/procedimientos/24052018/pac_01_control_documentos.pdf',

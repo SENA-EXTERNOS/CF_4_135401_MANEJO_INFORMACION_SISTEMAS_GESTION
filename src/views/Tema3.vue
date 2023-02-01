@@ -10,7 +10,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='')      
       .col-lg-7
-        p(data-aos="fade-down") Por otra parte, ciclo de vida de los documentos, es el nombre que se le da a las diferentes etapas por las que pasa el documento, desde su creación hasta su destrucción o selección para almacenamiento permanente y está determinado por el valor y la frecuencia de uso de los documentos.
+        p(data-aos="fade-down") Por otra parte, ciclo de vida de los documentos, es el nombre que se le da a las diferentes etapas por las que pasa el documento, desde su creación hasta su destrucción o selección para almacenamiento permanente, y está determinado por el valor y la frecuencia de uso de los documentos.
 
         p(data-aos="fade-down") El ciclo de vida de los documentos, debe considerar los tipos de archivos existentes, con el fin de conservarlos y controlarlos.
 

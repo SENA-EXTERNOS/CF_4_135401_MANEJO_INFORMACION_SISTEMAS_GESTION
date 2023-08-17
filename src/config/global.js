@@ -126,10 +126,10 @@ export default {
       tema:
         'Ciclo de vida del documento y control de la información documentada',
       referencia:
-        'Procuraduría General de la Nación. (2015). Instructivo para la aplicación de las tablas de retención y valoración documental, las transferencias documentales y la eliminación. ',
+        'Procuraduría General de la Nación. (2019). Programa de gestión documental PGD.',
       tipo: 'PDF',
       link:
-        'https://www.procuraduria.gov.co/portal/media/file/modulo_calidad/mapa_proceso/1073_INS-GD-AM-002_V4-MA.pdf ',
+        'https://www.procuraduria.gov.co/portal/media/docs/PGD%20v1_9_1%281%29.pdf',
     },
     {
       tema:

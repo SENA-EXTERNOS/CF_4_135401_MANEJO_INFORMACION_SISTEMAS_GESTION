@@ -127,7 +127,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Ahora podemos pasar a la implementación del sistema de información, el cual hace referencia a las actividades propuestas por la empresa, para la organización de datos e información, sea de forma física, digital o electrónica, y que pueda ser consultada en cualquier momento. Con este sistema se podrá controlar, conservar y disponer de la información que la organización requiere para su día a día. 
           
-    p(data-aos="fade-down") En la actualidad, la implementación de un sistema de información es una obligación para cualquier empresa que quiera permanecer en el tiempo. Justamente, cuando una empresa se proyecta para implementar su propio sistema, debe hacerlo paso a paso, debido a que está transformando el quehacer de la empresa, la gestión de sus procesos y recursos, y las responsabilidades de sus colaboradores.
+    p(data-aos="fade-down") En la actualidad, la implementación de un sistema de información es una obligación para cualquier empresa que quiera permanecer en el tiempo. Justamente, cuando una empresa se proyecta para implementar su propio sistema, debe hacerlo paso a paso, debido a que está transformando el que hacer de la empresa, la gestión de sus procesos y recursos, y las responsabilidades de sus colaboradores.
 
 </template>
 
